@@ -23,7 +23,7 @@ So we need a somewhat large collection of images. An input image is defined, and
 From:
 ![Input image](./static/source.png)
 
-To
+To (I have intentionally included only smaller-resolution output for some privacy :)
 ![Input image](./static/result.png)
 
 ### To be done:
