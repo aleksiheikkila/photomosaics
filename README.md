@@ -30,3 +30,8 @@ To (I have intentionally included only smaller-resolution output for some privac
 
  - it is now just a somewhat messy notebook -> refactor
  - some new ideas in the notebook
+
+
+### Requirements
+
+Done in Python 3.7.4, with the package versions listed in requirements.txt
